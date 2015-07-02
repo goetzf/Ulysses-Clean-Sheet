@@ -2,7 +2,7 @@
 
 Developed by RoyRogers56.
 
-### Ulysses III: *Dirty sheets?*
+### Ulysses for Mac: *Dirty sheets?*
 Sometimes, after copying from web-pages and pasting with Ulysses excellent "Paste from Rich Text", you get too few or too many blank lines. This script cleans and irons out the wrinkles. Test it out!
 
 Does not change your original sheet, just opens a cleaned copy in the Inbox (iCloud)
